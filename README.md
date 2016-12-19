@@ -17,7 +17,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 
 ## Team Settings
 
-### Keymap
+### Custom Keymap
 
 * `ctrl + s` - Split Vertically
 * `ctrl + w` - Increase font size
@@ -26,3 +26,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 * `cmd + shift + p` - Open recent (project)
 
 Want something different or a new keymap added? Let's discuss as a team!
+
+### Custom Ruby Style Formatting
+
+See file.
