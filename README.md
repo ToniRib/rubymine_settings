@@ -8,12 +8,15 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 2. In RubyMine, go to File -> Import Settings
 3. Navigate to where you cloned this repo and select the settings.jar file
 4. Click Open
-5. Allow all components to be imported (currently keymap and schemes only)
+5. Allow all components to be imported
 6. Once imported, allow RubyMine to restart
 7. Once it restarts, open the preferences menu (cmd + ,)
 8. Navigate to Keymap
 9. Under the listed keymaps, select 'GSC Inappropriators Keymap'
 10. Click 'Apply' to select your new settings
+11. From the preferences window, navigate to Editor -> Code Style
+12. Select the GSC Inappropriators Code Style scheme
+13. Click 'Apply' to select your new settings
 
 ## Team Settings
 
