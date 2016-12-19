@@ -1,3 +1,0 @@
-NodeJS
-mobi.hsz.idea.gitignore
-org.jetbrains.plugins.yaml
