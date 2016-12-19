@@ -8,7 +8,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 2. In RubyMine, go to File -> Import Settings
 3. Navigate to where you cloned this repo and select the settings.jar file
 4. Click Open
-5. Allow all components to be imported (currently keymap and schemes only.
+5. Allow all components to be imported (currently keymap and schemes only).
 6. Once imported, allow RubyMine to restart
 7. Once it restarts, use cmd+, to open the preferences menu
 8. Navigate to Keymap
