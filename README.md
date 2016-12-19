@@ -19,10 +19,10 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 
 ### Keymap
 
-`ctrl + s` - Split Vertically
-`ctrl + w` - Increase font size
-`ctrl + q` - Decrease font size
-`ctrl + shift + o` - Move to opposite group
-`cmd + shift + p` - Open recent (project)
+* `ctrl + s` - Split Vertically
+* `ctrl + w` - Increase font size
+* `ctrl + q` - Decrease font size
+* `ctrl + shift + o` - Move to opposite group
+* `cmd + shift + p` - Open recent (project)
 
 Want something different or a new keymap added? Let's discuss as a team!
