@@ -28,6 +28,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 * `ctrl + shift + o` - Move to opposite group
 * `cmd + shift + p` - Open recent (project)
 * `ctrl + shift + right` - Move right
+* `ctrl + option + cmd + g` - Open in GitHub
 
 Want something different or a new keymap added? Let's discuss as a team!
 
