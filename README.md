@@ -29,6 +29,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 * `cmd + shift + p` - Open recent (project)
 * `ctrl + shift + right` - Move right
 * `ctrl + option + cmd + g` - Open in GitHub
+* `ctrl + option + cmd + r` - Run all specs from anywhere in a spec file
 
 Want something different or a new keymap added? Let's discuss as a team!
 
