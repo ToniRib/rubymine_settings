@@ -33,6 +33,16 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 
 Want something different or a new keymap added? Let's discuss as a team!
 
+### LiveTemplates
+
+In JSX spec files, you can type:
+
+* `it` - inserts an it block
+* `desc` - inserts a describe block
+* `be` - inserts a beforeEach block
+
+All of these are in ES6 syntax.
+
 ### Custom Ruby Style Formatting
 
 See file.
