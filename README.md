@@ -10,7 +10,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 4. Click Open
 5. Allow all components to be imported
 6. Once imported, allow RubyMine to restart
-7. Once it restarts, open the preferences menu (cmd + ,)
+7. Once it restarts, open the preferences menu (`cmd` + `,`)
 8. Navigate to Keymap
 9. Under the listed keymaps, select 'GSC Inappropriators Keymap'
 10. Click 'Apply' to select your new settings
@@ -30,6 +30,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 * `ctrl + shift + right` - Move right
 * `ctrl + option + cmd + g` - Open in GitHub
 * `ctrl + option + cmd + r` - Run all specs from anywhere in a spec file
+* `ctrl + shift + a` - Open/close git annotations
 
 Want something different or a new keymap added? Let's discuss as a team!
 
