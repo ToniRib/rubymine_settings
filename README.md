@@ -31,6 +31,7 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 * `ctrl + option + cmd + g` - Open in GitHub
 * `ctrl + option + cmd + r` - Run all specs from anywhere in a spec file
 * `ctrl + shift + a` - Open/close git annotations
+* `ctrl + option + cmd + h` - Show git history of file
 
 Want something different or a new keymap added? Let's discuss as a team!
 
@@ -43,6 +44,11 @@ In JSX spec files, you can type:
 * `be` - inserts a beforeEach block
 
 All of these are in ES6 syntax.
+
+In RSpec spec files, you can type:
+
+* `saop` - inserts save_and_open_page
+* `wait` - inserts wait_for_ajax
 
 ### Custom Ruby Style Formatting
 
