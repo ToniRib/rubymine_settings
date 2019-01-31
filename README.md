@@ -48,6 +48,7 @@ All of these are in ES6 syntax.
 In RSpec spec files, you can type:
 
 * `saop` - inserts save_and_open_page
+* `saos` - inserts save_and_open_screenshot
 * `wait` - inserts wait_for_ajax
 
 ### Custom Ruby Style Formatting
