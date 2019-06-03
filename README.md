@@ -40,6 +40,7 @@ Want something different or a new keymap added? Let's discuss as a team!
 In JSX spec files, you can type:
 
 * `it` - inserts an it block
+* `test` - inserts an test block (new, preferred method for main web app)
 * `desc` - inserts a describe block
 * `be` - inserts a beforeEach block
 
