@@ -1,6 +1,6 @@
 # RubyMine Settings
 
-Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tutorial](https://www.jetbrains.com/help/ruby/2016.2/customizing-profiles.html).
+Help RubyMine settings for a Rails + React based project. Follows [this tutorial](https://www.jetbrains.com/help/ruby/2016.2/customizing-profiles.html).
 
 ## Importing
 
@@ -28,29 +28,37 @@ Shared RubyMine settings for the web app team at GoSpotCheck. Follows [this tuto
 * `ctrl + shift + o` - Move to opposite group
 * `cmd + shift + p` - Open recent (project)
 * `ctrl + shift + right` - Move right
-* `ctrl + option + cmd + g` - Open in GitHub
+* `cmd + option + shift + down` - Move down
+* `ctrl + option + cmd + g` - Open File in GitHub
 * `ctrl + option + cmd + r` - Run all specs from anywhere in a spec file
 * `ctrl + shift + a` - Open/close git annotations
 * `ctrl + option + cmd + h` - Show git history of file
 
-Want something different or a new keymap added? Let's discuss as a team!
-
 ### LiveTemplates
 
-In JSX spec files, you can type:
+#### JavaScript Testing
 
 * `it` - inserts an it block
-* `test` - inserts an test block (new, preferred method for main web app)
+* `test` - inserts a test block
 * `desc` - inserts a describe block
 * `be` - inserts a beforeEach block
+* `con` - inserts a context block
 
 All of these are in ES6 syntax.
 
-In RSpec spec files, you can type:
+#### RSpec
 
 * `saop` - inserts save_and_open_page
 * `saos` - inserts save_and_open_screenshot
 * `wait` - inserts wait_for_ajax
+
+#### JavaScript/TypeScript
+- `co` - adds the code owners annotation for the App Ecosystem team
+- `cl` - adds `console.log('')` and puts your cursor inside the string
+- `clv` - adds `console.log(':',)` and lets you type a variable which populates in the string and as the variable to log
+
+#### Ruby
+- `co` - adds the code owners annotation for the App Ecosystem team
 
 ### Custom Ruby Style Formatting
 
